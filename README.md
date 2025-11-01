@@ -15,11 +15,7 @@
 <h1 align="left">📫 How to reach me  </h1>
 
 <a href="contato.robertanatany@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://instagram.com/natanytech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<a href="https://instagram.com/roobtech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 <a href="https://www.behance.net/robertaneresd"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="www.behance.net/robertaneresd"/></a>
 <a href="https://discord.gg/D6CZK7mh"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/D6CZK7mh"/></a>
-<a href="https://x.com/roobinorroob"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a> 
 <a href="https://www.linkedin.com/in/robertanatany"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-
-
-- ⚡ Fun fact **When I'm home alone, I often pretend I'm in my own version of 'Friends'.**
