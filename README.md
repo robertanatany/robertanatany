@@ -19,3 +19,4 @@
 <a href="https://www.behance.net/robertaneresd"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="www.behance.net/robertaneresd"/></a>
 <a href="https://discord.gg/D6CZK7mh"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/ehJqWVjd"/></a>
 <a href="https://www.linkedin.com/in/robertanatany"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+        
